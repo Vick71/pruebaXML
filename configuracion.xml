@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuracion>
+    <conexionlocal>
+        <servidorl>localhost</servidorl>
+        <puertol>3306</puertol>
+        <usuariol>tecnico</usuariol>
+        <passwordl>vic1971</passwordl>
+    </conexionlocal>
+    <conexionremota>
+        <servidorr>localhost</servidorr>
+        <puertor>3306</puertor>
+        <usuarior>root</usuarior>
+        <passwordr>1973</passwordr>
+    </conexionremota>
+    <generales>
+        <retardo>10</retardo>
+        <volumetricos>si</volumetricos>
+    </generales>
+</configuracion>
